@@ -3,6 +3,8 @@
 ## 環境
 - OS Windows10
 - VScodeがインストールされている
+- WSL2が導入済みである(https://qiita.com/tomokei5634/items/27504849bb4353d8fef8)
+
 
 ## 手順
 - 1, https://git-scm.com/downloads からgitをダウンロードする。
@@ -11,7 +13,7 @@
 ![Image 1](images/3.JPG)
 ![Image 2](images/5.JPG)
 
-- 3, https://cli.github.com/ からgithubCLIをダウンロードする。（これはダウンローダーの指示に従うだけで良い）
+- 3, https://cli.github.com/ からgithubCLIをダウンロードする。（これはインストーラーの指示に従うだけで良い）
 - 4, コマンドプロンプトを起動し　$ gh auth login を実行
 - 5, その後対話的に処理を実行し認証を行う（分からない場合にはgh auth login 手順などで調べるといろいろと出てくるのでそれらを参考に...）
 

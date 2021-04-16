@@ -8,8 +8,8 @@
 - 1, https://git-scm.com/downloads からgitをダウンロードする。
 - 2, 基本的には全てもとから入っているチェックマークのままでよいが以下に示す物だけは変更する
 
-![Image 1](images/3.jpg)
-![Image 2](images/5.jpg)
+![Image 1](images/3.JPG)
+![Image 2](images/5.JPG)
 
 - 3, https://cli.github.com/ からgithubCLIをダウンロードする。（これはダウンローダーの指示に従うだけで良い）
 - 4, コマンドプロンプトを起動し　$ gh auth login を実行
